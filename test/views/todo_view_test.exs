@@ -1,5 +1,5 @@
 defmodule Todos.TodoViewTest do
-  use ModelCase
+  use Todos.ModelCase
   import Todos.Factory
   alias Todos.TodoView
 
